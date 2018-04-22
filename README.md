@@ -1,6 +1,8 @@
 # node-koa2
 
-###quickstart
+> 使用koa2搭建的node中间层服务，基于此服务可以快速开发
+
+### quickstart
 - git clone git@github.com:fozero/node-koa2.git
 - cd node-koa2 & npm install
 - npm install -g nodemon
