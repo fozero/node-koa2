@@ -11,8 +11,7 @@
 
 
 ### 目录结构说明
-
-目录结构
+```
 |-common
     |-config.js    #项目配置文件
     |-helper.js    #node公共方法
@@ -29,8 +28,9 @@
 |-app.js              #koa配置
 |-package.json        #项目依赖
 |-run.js              #start
+```
 
 ### 联系我
 
-如有问题，欢迎给我提[issues](https://github.com/fozero/node-koa2/issues)
-[https://github.com/fozero](https://github.com/fozero)
+- 如有问题，欢迎给我提[issues](https://github.com/fozero/node-koa2/issues)
+- [https://github.com/fozero](https://github.com/fozero)
