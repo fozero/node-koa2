@@ -2,7 +2,7 @@
 
 > 使用koa2搭建的node中间层服务，基于此服务可以快速开发
 
-### quickstart
+# quickstart
 - git clone git@github.com:fozero/node-koa2.git
 - cd node-koa2 & npm install
 - npm install -g nodemon
@@ -10,7 +10,7 @@
 - 浏览器访问http://localhost:3001/
 
 
-### 目录结构说明
+# 目录结构说明
 ```
 |-common
     |-config.js    #项目配置文件
@@ -30,7 +30,7 @@
 |-run.js              #start
 ```
 
-### 联系我
+# 联系我
 
 - 如有问题，欢迎给我提[issues](https://github.com/fozero/node-koa2/issues)
 - [https://github.com/fozero](https://github.com/fozero)
